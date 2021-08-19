@@ -11,4 +11,6 @@
 - 💬 Ask me about Swift, JavaScript, CSS, HTML.
 <!-- - 📫 How to reach me: my email -->
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am an extroverted introvert 😅
+
+### Technologies
