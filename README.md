@@ -2,9 +2,6 @@
 
 ## My name is Emmanuel Omokagbo.
 
-<!-- -->
-<!-- -->
-
 ### I am a Software Engineer who builds robust web and mobile applications.
 <!--
 **omokagbo/omokagbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
