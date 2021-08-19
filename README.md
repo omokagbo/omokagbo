@@ -5,7 +5,6 @@
 # My name is Emmanuel Omokagbo.
 
 ## I'm a Software Engineer who builds robust web and mobile applications.
-#
 
 - 🔭 I’m currently working on an iOS Project.
 <!-- - 🌱 I’m currently learning Python. -->
