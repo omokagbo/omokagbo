@@ -9,6 +9,7 @@
 - 🔭 I’m currently working on an iOS Project.
 <!-- - 🌱 I’m currently learning Python. -->
 - 👯 I’m looking to collaborate on Open Source Projects for iOS as well as Web.
+- 👯 I’m also looking to collaborate on a Fintech Solution for iOS.
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Swift, JavaScript, CSS, HTML.
 <!-- - 📫 How to reach me: my email -->
