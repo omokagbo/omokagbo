@@ -18,8 +18,6 @@
 # 
 
 ### Technologies
-<a href="url"><img src="https://user-images.githubusercontent.com/69020285/130030602-14400d83-414c-4adf-9871-679e3cee048c.png" align="left" height="48" width="48" ></a>
-<!-- <a href="url"><img src="http://url.to/image.png" align="left" height="48" width="48" ></a>
-<a href="url"><img src="http://url.to/image.png" align="left" height="48" width="48" ></a>
-<a href="url"><img src="http://url.to/image.png" align="left" height="48" width="48" ></a>
-![swift](https://user-images.githubusercontent.com/69020285/130030602-14400d83-414c-4adf-9871-679e3cee048c.png)![git](https://user-images.githubusercontent.com/69020285/130030743-323982e7-6d2e-4150-8eeb-06837392a2fa.png)![js](https://user-images.githubusercontent.com/69020285/130030625-3fd0bb40-387e-4ddf-9101-16075c62fb06.png)![css](https://user-images.githubusercontent.com/69020285/130030664-e2904aab-a0c1-4460-afd4-ecc14bcaac97.png)![html](https://user-images.githubusercontent.com/69020285/130030708-42c04385-8e11-4380-ab35-7d621c2cc2aa.png) -->
+<a href="url"><img src="https://user-images.githubusercontent.com/69020285/130030602-14400d83-414c-4adf-9871-679e3cee048c.png" align="left" height="60" width="60" ></a> <a href="url"><img src="https://user-images.githubusercontent.com/69020285/130030743-323982e7-6d2e-4150-8eeb-06837392a2fa.png" align="left" height="60" width="60" ></a> <a href="url"><img src="https://user-images.githubusercontent.com/69020285/130030625-3fd0bb40-387e-4ddf-9101-16075c62fb06.png" align="left" height="60" width="60" ></a> <a href="url"><img src="https://user-images.githubusercontent.com/69020285/130030708-42c04385-8e11-4380-ab35-7d621c2cc2aa.png" align="left" height="60" width="60" ></a>
+
+<!-- ![swift](https://user-images.githubusercontent.com/69020285/130030602-14400d83-414c-4adf-9871-679e3cee048c.png)![git](https://user-images.githubusercontent.com/69020285/130030743-323982e7-6d2e-4150-8eeb-06837392a2fa.png)![js](https://user-images.githubusercontent.com/69020285/130030625-3fd0bb40-387e-4ddf-9101-16075c62fb06.png)![css](https://user-images.githubusercontent.com/69020285/130030664-e2904aab-a0c1-4460-afd4-ecc14bcaac97.png)![html](https://user-images.githubusercontent.com/69020285/130030708-42c04385-8e11-4380-ab35-7d621c2cc2aa.png) -->
