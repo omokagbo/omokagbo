@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on an iOS Project.
 <!-- - 🌱 I’m currently learning Python. -->
-- 👯 I’m looking to collaborate on Fintech Applications for iOS as well Open Source.
+- 👯 I’m looking to collaborate on Open Source Projects for iOS as well as Web.
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Swift, JavaScript, CSS, HTML.
 <!-- - 📫 How to reach me: my email -->
@@ -18,3 +18,4 @@
 # 
 
 ### Technologies
+![swift](https://user-images.githubusercontent.com/69020285/130030602-14400d83-414c-4adf-9871-679e3cee048c.png)![git](https://user-images.githubusercontent.com/69020285/130030743-323982e7-6d2e-4150-8eeb-06837392a2fa.png)![js](https://user-images.githubusercontent.com/69020285/130030625-3fd0bb40-387e-4ddf-9101-16075c62fb06.png)![css](https://user-images.githubusercontent.com/69020285/130030664-e2904aab-a0c1-4460-afd4-ecc14bcaac97.png)![html](https://user-images.githubusercontent.com/69020285/130030708-42c04385-8e11-4380-ab35-7d621c2cc2aa.png)
