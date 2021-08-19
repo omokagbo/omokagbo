@@ -2,7 +2,7 @@
 
 #
 
-## My name is Emmanuel Omokagbo.
+# My name is Emmanuel Omokagbo.
 
 ### I'm a Software Engineer who builds robust web and mobile applications.
 
