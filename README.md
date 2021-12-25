@@ -8,7 +8,7 @@
 
 ## I'm a Software Engineer who builds robust web and mobile applications.
 
-- 🔭 I’m currently working on an iOS Project.
+- 🔭 I’m currently exploring other languages and tools in order to become a better software developer.
 <!-- - 🌱 I’m currently learning Python. -->
 - 👯 I’m looking to collaborate on Open Source Projects for iOS as well as Web.
 - 👯 I’m also looking to collaborate on a Fintech Solution for iOS.
