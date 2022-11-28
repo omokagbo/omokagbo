@@ -1,6 +1,4 @@
-[![omokagbo's GitHub stats](https://github-readme-stats.vercel.app/api?username=omokagbo)](https://github.com/anuraghazra/github-readme-stats&count_private=true&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/omokagbo/github-readme-stats)
+[![omokagbo's GitHub stats](https://github-readme-stats.vercel.app/api?username=omokagbo)](https://github.com/anuraghazra/github-readme-stats&count_private=true&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/omokagbo/github-readme-stats)
 
 ### Hi there 👋
 
