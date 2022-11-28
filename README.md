@@ -17,6 +17,13 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am an extroverted introvert 😅
 
+<div>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=omokagbo&column=8&theme=gruvbox&no-frame=true"/>
+</a>
+</div>
+
 # 
 
 <div>
@@ -28,18 +35,12 @@
 
 #
 #
-<div>
+
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=omokagbo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="omokagbo's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omokagbo&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-</div>
+
 
 ---
 
-<div>
-<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=omokagbo&column=8&theme=gruvbox&no-frame=true"/>
-</a>
-</div>
 
 <!-- <a href="url"><img src="http://url.to/image.png" align="left" height="120" width="120" ></a> -->
