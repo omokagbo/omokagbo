@@ -1,4 +1,4 @@
-[![omokagbo's GitHub stats](https://github-readme-stats.vercel.app/api?username=omokagbo)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omokagbo)](https://github.com/omokagbo/github-readme-stats&layout=compact)
+[![omokagbo's GitHub stats](https://github-readme-stats.vercel.app/api?username=omokagbo)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omokagbo)](https://github.com/omokagbo/github-readme-stats&layout=compact&theme=buefy&hide_border=true)
 
 ### Hi there 👋
 
