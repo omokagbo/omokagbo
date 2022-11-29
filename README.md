@@ -3,7 +3,7 @@
 
 #
 
-# My name is Emmanuel Omokagbo.
+# My name is Emmanuel Omokagbo. <p align='center'><img src="https://gpvc.arturio.dev/omokagbo" /></p>
 
 ## I'm a Software Engineer who builds robust web and mobile applications.
 
