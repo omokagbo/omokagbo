@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on Open Source Projects for iOS as well as Web.
 - 👯 I’m also looking to collaborate on a Fintech Solution for iOS.
 <!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about Swift, Flutter, Go, JavaScript, CSS, HTML.
+- 💬 Ask me about Swift, Python, Dart, Flutter, Go, JavaScript, Kotlin, Compose, CSS, HTML.
 <!-- - 📫 How to reach me: my email -->
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am an extroverted introvert 😅
